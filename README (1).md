@@ -22,7 +22,6 @@ final_submission_q8_q9_gridsearch.ipynb   # Jupyter Notebook with complete model
 - **Scikit-learn**: Modeling, pipelines, and Grid Search
 - **Pandas, NumPy**: Data manipulation
 - **Matplotlib / Seaborn**: Visualizations
-- **AutoGluon** (optional): Ensemble modeling for performance comparison
 
 ## 🛠 How to Run
 
@@ -50,23 +49,17 @@ final_submission_q8_q9_gridsearch.ipynb   # Jupyter Notebook with complete model
 - Historical sales data for 75 companies over 7 quarters
 - External economic indicators
 - Predictions required for Quarters 8 and 9
-- Test format defined by `sample_submission.csv`
 
 ## 📈 Evaluation Metric
 
 - **Mean Absolute Error (MAE)**: Used to evaluate prediction accuracy for Q8 and Q9
+- Train MAE = 60.85
+- Validation MAE = 69.29
 
 ## ✅ Status
 
-✔️ Final version submitted with tuned models and predictions  
+✔️ Final version created with tuned models and predictions  
 ✔️ Grid Search applied for model optimization  
 ✔️ Forecasts ready for submission  
 
-## 📃 License
 
-This project is licensed under the MIT License. Feel free to use, adapt, and build upon it.
-
-## 🙋‍♂️ Author
-
-[Your Name] – [your.email@example.com]  
-GitHub: [@your-username](https://github.com/your-username)
